@@ -44,3 +44,8 @@ Description Ac6.
 Description Ac7.  
 
 **Act7**: [Laboratorio de Repaso de Probabilidad y Estadistica](https://github.com/Carlos56g/IA_Jan-June/blob/main/Act/7-Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadistica/Laboratorio%20de%20Repaso%20de%20Probabilidad%20y%20Estadistica.pdf)
+
+### Act8: Laboratorio de Álgebra Lineal
+Description Ac8.  
+
+**Act8**: [Laboratorio de Álgebra Lineal](https://github.com/Carlos56g/IA_Jan-June/blob/main/Act/8-Laboratorio%20de%20%C3%81lgebra%20Lineal/Laboratorio%20de%20%C3%81lgebra%20Lineal.pdf)

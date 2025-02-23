@@ -7,6 +7,7 @@ This repository stores the differents activities and material assigned.
 - [02 Python](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/2-Python.pdf)
 - [03 Intro to Machine Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/3-Intro%20to%20Machine%20Learning.pdf)
 - [04 Pandas](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/4-Pandas.pdf)
+- [05 Intermediate Machine Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/5-Intermediate%20Machine%20Learning.pdf)
 
 
 ## Activities

@@ -8,8 +8,18 @@ This repository stores the differents activities and material assigned.
 - [03 Intro to Machine Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/3-Intro%20to%20Machine%20Learning.pdf)
 - [04 Pandas](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/4-Pandas.pdf)
 - [05 Intermediate Machine Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/5-Intermediate%20Machine%20Learning.pdf)
-
-
+- [06 Data Visualization](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/6-Data%20Visualization.pdf)
+- [07 Feature Engineering](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/7-Feature%20Engineering.pdf)
+- [08 Intro to SQL](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/8-Intro%20to%20SQL.pdf)
+- [09 Advanced SQL](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/9-Advanced%20SQL.pdf)
+- [10 Intro to Deep Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/10-Intro%20to%20Deep%20Learning.pdf)
+- [11 Computer Vision](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/11-Computer%20Vision.pdf)
+- [12 Time Series](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/12-Time%20Series.pdf)
+- [13 Data Cleaning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/13-Data%20Cleaning.pdf)
+- [14 Intro to AI Ethics](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/14-Intro%20to%20AI%20Ethics.pdf)
+- [15 Geospatial Analysis](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/15-Geospatial%20Analysis%20AI%20.pdf)
+- [16 Machine Learning Explainability](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/16-Machine%20Learning%20AI%20Explainability.pdf)
+- [17 Intro to Game AI and Reinforcement Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/17-Intro%20to%20AI%20Game%20AI%20and%20Reinforcement%20Learning.pdf)
 ## Activities
 ### Act1: Crear una cuenta en Kaggle
 Description Ac1.  

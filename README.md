@@ -17,9 +17,9 @@ This repository stores the differents activities and material assigned.
 - [12 Time Series](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/12-Time%20Series.pdf)
 - [13 Data Cleaning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/13-Data%20Cleaning.pdf)
 - [14 Intro to AI Ethics](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/14-Intro%20to%20AI%20Ethics.pdf)
-- [15 Geospatial Analysis](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/15-Geospatial%20Analysis%20AI%20.pdf)
-- [16 Machine Learning Explainability](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/16-Machine%20Learning%20AI%20Explainability.pdf)
-- [17 Intro to Game AI and Reinforcement Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/17-Intro%20to%20AI%20Game%20AI%20and%20Reinforcement%20Learning.pdf)
+- [15 Geospatial Analysis](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/15-Geospatial%20Analysis.pdf)
+- [16 Machine Learning Explainability](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/16-Machine%20Learning%20Explainability.pdf)
+- [17 Intro to Game AI and Reinforcement Learning](https://github.com/Carlos56g/IA_Jan-June/blob/main/Cert/17-Intro%20to%20Game%20AI%20and%20Reinforcement%20Learning.pdf)
 ## Activities
 ### Act1: Crear una cuenta en Kaggle
 Description Ac1.  
